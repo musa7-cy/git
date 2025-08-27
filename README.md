@@ -5,5 +5,8 @@
 - css
 - javascript
 
+### License
+- MIT
+
 #### Author
 - Musa
